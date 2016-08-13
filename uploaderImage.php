@@ -1,4 +1,5 @@
 <?php  
+/*este es un comentario cualquiera*/
     $file_path = "";
     $var = $_POST['formJSon'];
     $file_path = $file_path . basename( $_FILES['uploaded_file']['name']);
